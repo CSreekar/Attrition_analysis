@@ -1,3 +1,5 @@
+Hello I made this project during my first internship at Steel Authority of India. Used a publicly available dummy dataset to perform Exploratory data analysis techniques.
+
 # Attrition_analysis
 Attrition is a process in which the workforce dwindles at a company, following a period in which a number of people retire or resign, and are not replaced. - A reduction
 in staff due to attrition is often called a hiring freeze and is seen as a less disruptive way to trim the workforce and reduce payroll than layoffs - In this NoteBook our Aim will be to analyze the datasets completely wrt each and feature and find the reason behind Attrition of Employees.
@@ -7,9 +9,11 @@ The Data Analysis yielded several noteworthy findings:
 a) Top Factors Influencing Attrition: The key drivers of employee attrition were
 identified as job satisfaction, work-life balance, career growth opportunities,
 compensation and benefits.
+
 b) At-Risk Employee Segments: Identified specific employee segments, such as
 those in certain job roles, at particular experience levels, or within specific age
 ranges, that exhibited higher attrition rates.
+
 c) Early Warning Indicators: By analyzing historical data, we developed a system
 to identify early warning signs of potential attrition, allowing proactive
 intervention and retention strategies.
