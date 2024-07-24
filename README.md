@@ -6,6 +6,7 @@ in staff due to attrition is often called a hiring freeze and is seen as a less 
 
 # Findings
 The Data Analysis yielded several noteworthy findings:
+
 a) Top Factors Influencing Attrition: The key drivers of employee attrition were
 identified as job satisfaction, work-life balance, career growth opportunities,
 compensation and benefits.
